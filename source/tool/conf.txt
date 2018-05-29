@@ -1,0 +1,7 @@
+input_w 128
+input_h 128
+port 80
+stream_w 240
+stream_h 220
+
+
